@@ -9,6 +9,7 @@ cd bioluminesence
 chmod +x main.sh
 ./main.sh
 ```
+Then go to localhost:3030
 Run on replit:
 https://replit.com/github/Edward-358-AI/bioluminesence
 If replit asks you to configure the run button, delete any text and replace with "./main.sh"
