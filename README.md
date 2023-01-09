@@ -10,7 +10,7 @@ cd bioluminesence
 chmod +x main.sh
 ./main.sh
 ```
-Then go to localhost:3030
+Then go to localhost:8030
 
 Run on replit:
 https://replit.com/github/Edward-358-AI/bioluminesence
